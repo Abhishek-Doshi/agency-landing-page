@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 375 375">
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Montserrat:700');
+    </style>
+    <defs>
+        <clipPath id="clip_7">
+            <path transform="matrix(.24,0,0,.24,0,0)" d="M754.7212 45.303174H1264.9558C1273.9144 45.303174 1282.1846 50.108526 1286.6211 57.89157 1291.0574 65.674617 1290.978 75.23924 1286.4133 82.94766L1196.188 235.30776C1182.3699 258.6418 1157.2639 272.95225 1130.1455 272.95225H619.9109C610.9523 272.95225 602.682 268.14689 598.24569 260.36384 593.80929 252.5808 593.88858 243.01618 598.45339 235.30776L688.6787 82.94766C702.4968 59.613584 727.60269 45.303174 754.7212 45.303174Z"/>
+        </clipPath>
+    </defs>
+    
+    <g>
+        <text fill="#0097b2" xml:space="preserve" transform="matrix(.74999997 0 0 .74999997 19.032065 18.051247)" font-size="49.15" font-family="Montserrat" font-weight="bold">
+            <tspan y="53" x="0 48.157098 60.63806 73.61042 86.58278 99.06374 127.564579">million</tspan>
+        </text>
+    </g>
+
+    <g clip-path="url(#clip_7)">
+        <path transform="matrix(.21342099,0,0,.21342099,138.27861,10.872762)" d="M0 0H824V256H0Z" fill="#0097b2"/>
+    </g>
+
+    <g>
+        <text fill="#ffffff" xml:space="preserve" transform="matrix(.8627861 0 0 .8627861 164.52295 6.271239)" font-size="53.33" font-family="Montserrat" font-weight="bold">
+            <tspan y="58" x="0 14.078303 43.14179 72.09862 105.64166">leads</tspan>
+        </text>
+        <text fill="#0097b2" xml:space="preserve" transform="matrix(.74999997 0 0 .74999997 0 -3.686572)" font-size="49.15" font-family="Montserrat" font-weight="bold">
+            <tspan y="53" x="0 18.57441 49.089998">the</tspan>
+        </text>
+    </g>
+
+</svg>
